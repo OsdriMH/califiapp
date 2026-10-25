@@ -81,3 +81,4 @@ Respaldo en la nube: este repositorio en GitHub (público, para que el docente l
 6. Súbelo **antes de apagar**: `git push`
 
 > La computadora olvida todo. GitHub no.
+Proyecto recuperado y actualizado con Git.
