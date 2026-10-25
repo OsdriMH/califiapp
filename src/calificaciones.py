@@ -45,3 +45,4 @@ def promedio_grupal(promedios):
     if len(promedios) == 0:
         return 0.0
     return round(sum(promedios) / len(promedios), 1)
+    print("Total de alumnos en el reporte:", len(promedios))
